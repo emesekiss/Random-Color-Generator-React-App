@@ -1,11 +1,11 @@
-#Random color generator :rainbow:
+# Random color generator :rainbow:
 This React web application allows the user to create a random hex color.
 
-##Netlify link
+## Netlify link
 admiring-mestorf-0d0696.netlify.app
 
-##CodeSandbox Link
+## CodeSandbox Link
 codesandbox.io/s/random-color-generator-react-app-iqpfs?file=/src/index.js
 
-##Screenshot
+## Screenshot
 ![Alt text](./screenshot.png)
