@@ -8,6 +8,7 @@ const App = () => {
   //Use hooks here before the return statement:
 
   const [color, setColor] = useState('');
+
   const randomHex = () => {
     const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
 
