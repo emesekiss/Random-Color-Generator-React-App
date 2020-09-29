@@ -1,5 +1,5 @@
 import React from 'react';
-import './Style.css';
+import './style.css';
 
 const Header = () => <header>Welcome to Random Color Generator!</header>;
 
